@@ -1,0 +1,144 @@
+.body{
+    font-family:'Poppins';
+}
+
+.logo{
+    height: 50px;
+    width: 210px;
+}
+
+.top{
+    background-color: #F0FFF0;    
+}
+.size{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.ready{
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+
+.illustration{
+    height: 320px;
+    width: 520px;
+    padding-right: 50px;
+}
+.signin{
+    width: 88px;
+    height: 38px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    padding: 0px ;
+}
+
+.start{
+    width: 170px;
+    height: 40px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    padding: none;
+}
+
+.card-img-top{
+    width: 50px;
+    height: 60px;
+
+    
+}
+.card1{
+    box-shadow: 5px 5px 20px lightgrey;
+    border-radius: 15px;
+    background-color: #F0FFF0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card1:hover {
+    background-color: white;
+  }
+
+.card-img-top{
+    margin-left: 35%;
+    margin-top: 25px;
+}
+.card-body1{
+    text-align: center;
+}
+.middle{
+    text-align: center;
+    margin-top: 30px;
+    color: #413960;
+    font-family: Poppins bold;
+}
+
+.big{
+    height: 200px;
+    width: 320px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.card{
+    box-shadow: 3px 3px 10px lightgrey;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.buy{
+    width: 85px;
+    height: 23px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    padding: 0px ;
+    font-size: 12px;
+}
+.icon{
+    height: 25px;
+    width: 25px;
+}
+.bottom{
+    padding-top: 5px;
+}
+.cardtitle1{
+    color: #413960;
+}
+
+.Testimonial{
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.man{
+    height: 120px;
+    width: 120px;
+}
+.message{
+    width: 700px;
+}
+
+.footer{
+    background-color: #282531;
+    color: white;
+}
+.footer-info{
+    padding-top: 30px;
+}
+li {
+    list-style-type: none;
+}
+
+.copy{
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+    padding-bottom: 20px;
+}
